@@ -1,0 +1,47 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Environment folders
+.env/
+.venv/
+env/
+venv/
+env.bak/
+venv.bak/
+
+# Anaconda
+.conda/
+*.conda
+*.egg-info/
+*.ipynb
+
+# Jupyter Notebook runtime
+*.nbconvert.ipynb
+*.nb.html
+.ipynb_checkpoints/
+.jupyter/
+*.checkpoint
+
+# Data and models
+*.pkl
+*.h5
+*.csv
+*.db
+*.sqlite
+*.json
+
+# VSCode / IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# OS / System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit temporary files
+.streamlit/config.toml
+.streamlit/secrets.toml
